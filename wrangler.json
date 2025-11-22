@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+
+  "name": "ez4y2f-link-in-bio",
+  "compatibility_date": "2025-11-22",
+
+  "assets": {
+    "directory": ".",
+
+    "exclude": [
+      ".git",
+      ".git/**",
+    ],
+
+    "not_found_handling": "404-page"
+  }
+}
