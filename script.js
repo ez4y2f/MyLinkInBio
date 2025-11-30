@@ -39,6 +39,9 @@ const translations = {
         "link.project.title": "我的项目",
         "link.project.subtitle": "开发中的炫酷小东西",
         "link.project.pill": "查看",
+        "link.servers.title": "小鸡们",
+        "link.servers.subtitle": "实时状态监控",
+        "link.servers.pill": "查看",
         "footer.right": "Made with ❤️ & HTML/CSS/JS",
         "toast.copied": "邮箱已复制 ✨",
         "toast.failed": "复制失败，请手动复制 😢"
@@ -83,6 +86,9 @@ const translations = {
         "link.project.title": "My projects",
         "link.project.subtitle": "Some cool stuff in development",
         "link.project.pill": "Watch",
+        "link.servers.title": "Servers",
+        "link.servers.subtitle": "Those awesome things based on",
+        "link.servers.pill": "View",
         "footer.right": "Made with ❤️ & HTML/CSS/JS",
         "toast.copied": "Mail copied ✨",
         "toast.failed": "copied failed, please do it manually 😢"
